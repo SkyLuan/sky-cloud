@@ -4,7 +4,7 @@ import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
 
 /**
- * ThreadLocal的测试应用
+ * ThreadLocal的测试应用11
  */
 public class TheadLocalTest {
 
