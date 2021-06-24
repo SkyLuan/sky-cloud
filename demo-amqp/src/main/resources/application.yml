@@ -1,0 +1,13 @@
+spring:
+  #项目名
+  application:
+    name: demo-mq
+  #RabbitMQ的相关配置
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: guest
+    password: guest
+#项目端口
+server:
+  port: 8099
